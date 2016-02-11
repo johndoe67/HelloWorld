@@ -7,7 +7,7 @@
 
     For more information on package manifest files, see http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="8c3091a6-533c-43c2-b87d-5303c2d35f3d" Publisher="CN=onordqui" Version="1.0.0.0" ProcessorArchitecture="neutral" />
+  <Identity Name="8c3091a6-533c-43c2-b87d-5303c2d35f3d" Publisher="CN=onordqui" Version="7.2.2016.15001" ProcessorArchitecture="neutral" />
   <mp:PhoneIdentity PhoneProductId="8c3091a6-533c-43c2-b87d-5303c2d35f3d" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>HelloWorld</DisplayName>
